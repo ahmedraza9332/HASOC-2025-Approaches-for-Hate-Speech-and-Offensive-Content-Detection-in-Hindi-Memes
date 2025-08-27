@@ -1,0 +1,770 @@
+Ids,Sentiment,Sarcasm,Vulgar,Abuse
+Hindi_image_10.jpg,Positive,Sarcastic,Vulgar,Abusive
+Hindi_image_1002.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1004.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1006.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1009.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_101.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1012.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1013.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1014.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_102.jpg,Neutral,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1027.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1028.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1029.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1033.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1035.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1036.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1038.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1040.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1042.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1043.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1049.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1053.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1055.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1056.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1061.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1063.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1064.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1068.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_107.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1070.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1074.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1076.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_108.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_1080.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1082.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1083.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_1084.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1087.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1091.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1096.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1097.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1098.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_11.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1101.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1102.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1104.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1105.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1109.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1110.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1113.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1114.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1118.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1119.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1120.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1124.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1126.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1128.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_113.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1132.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1133.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1135.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1137.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_114.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1140.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1142.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1143.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1144.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1146.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1153.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1156.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1159.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1160.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1161.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1162.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1163.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1165.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1166.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1167.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1175.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1177.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1180.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1184.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1189.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1193.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1194.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_12.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1200.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1201.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1202.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1206.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1208.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_121.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1216.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1217.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1219.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_122.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1220.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1225.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1231.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1232.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1233.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1234.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1236.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1237.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1238.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1244.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1248.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_125.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1250.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1251.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1252.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1253.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1258.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1259.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1261.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1262.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1263.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1265.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1267.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1268.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1269.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_127.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1275.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1277.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1279.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1282.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1285.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1286.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1287.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_129.jpg,Positive,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_1290.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1291.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1295.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1298.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1299.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_130.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1300.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1301.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1305.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1306.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1308.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1309.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_131.jpg,Positive,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_1310.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1312.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1314.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1318.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1319.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1321.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1325.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_133.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1330.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1334.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1336.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1340.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1347.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1350.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1351.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1353.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1356.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1357.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1364.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1366.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1372.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1376.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1377.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1383.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1392.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1393.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1395.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1396.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1398.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_140.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1400.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1403.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1409.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1410.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1412.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1418.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1419.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1420.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1421.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1424.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1426.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1430.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1431.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1432.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1434.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1439.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1440.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1441.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1444.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1448.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1449.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_145.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1450.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1451.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1453.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1456.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1457.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1459.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_146.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1461.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1463.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1465.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1466.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1468.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1469.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_147.jpg,Neutral,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1470.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1478.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1486.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1488.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1489.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_149.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1491.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1492.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1498.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1499.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1501.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1502.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1505.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1509.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1511.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1514.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1515.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1523.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_1524.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1525.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1529.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1530.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1532.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1541.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1543.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1548.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_155.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1551.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1553.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1555.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1556.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1558.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1561.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1568.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1575.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1583.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1585.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1590.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1591.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1597.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1599.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_160.jpg,Neutral,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_1602.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1609.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1615.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1618.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_162.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_1625.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1626.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1627.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1628.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1633.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1635.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1639.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_164.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_1640.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1641.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1642.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1646.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1653.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1655.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1659.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1660.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1661.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1664.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1668.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1669.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_167.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1670.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1673.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1675.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_1677.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_168.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1681.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1688.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_169.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1690.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1691.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1693.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1697.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1699.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_17.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1706.jpg,Positive,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_1711.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1713.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1715.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1716.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1717.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1719.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_172.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1721.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1722.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1727.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1730.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1734.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1736.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1737.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_1738.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1741.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1742.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1747.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_175.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1765.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1767.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_1769.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1772.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1778.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1783.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1789.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_179.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1792.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1793.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1795.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1796.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_18.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1800.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1801.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_181.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1811.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1812.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1820.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1821.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1822.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1833.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1837.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1846.jpg,Positive,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_1847.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1850.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1853.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1854.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_186.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1862.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1865.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1874.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1880.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_189.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1890.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1893.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1898.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_19.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1904.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1905.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1907.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1911.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1917.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1918.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1919.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1920.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1922.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1924.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1925.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1928.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_1931.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1935.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1936.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_1944.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1945.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1946.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1947.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1948.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_195.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_1953.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1958.jpg,Neutral,Sarcastic,Vulgar,Abusive
+Hindi_image_1959.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_196.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1960.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1962.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1963.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1967.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1978.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_198.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1987.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1989.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_1991.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_1992.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_1999.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_20.jpg,Neutral,Sarcastic,Vulgar,Abusive
+Hindi_image_2005.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2006.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2008.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2012.jpg,Positive,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2013.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2015.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2019.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_202.jpg,Positive,Sarcastic,Vulgar,Abusive
+Hindi_image_2022.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_2024.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2026.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_203.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2032.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_2033.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2037.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_204.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2044.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2045.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2046.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2051.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2054.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2059.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2067.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2085.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2087.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2088.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2091.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2092.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2094.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2095.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_210.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_211.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2111.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_2126.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_213.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_2135.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2137.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_214.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_2144.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2146.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2147.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2148.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2150.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2151.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2152.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2153.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2154.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2157.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2158.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_216.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2161.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2165.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2170.jpg,Positive,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2172.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2174.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2177.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2178.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_218.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2180.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2181.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2183.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2186.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2190.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2191.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2192.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2193.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2203.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2208.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2212.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2218.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2220.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2222.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2223.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2224.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2226.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2229.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_223.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2233.jpg,Positive,Sarcastic,Vulgar,Abusive
+Hindi_image_2235.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2238.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2239.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2240.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2241.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2243.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2247.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2248.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2249.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2251.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2255.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2257.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2261.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2263.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2264.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2266.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2269.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_227.jpg,Positive,Sarcastic,Vulgar,Abusive
+Hindi_image_2273.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2282.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2285.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2287.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_229.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2290.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2295.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2296.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2298.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_23.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_230.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2301.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2303.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2307.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2308.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2309.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2311.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2315.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2316.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2317.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_232.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2320.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2321.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2324.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2325.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2326.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2327.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2331.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2332.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2334.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2335.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2337.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2339.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_234.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_2343.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2352.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2353.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2356.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2360.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2363.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2365.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2369.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2370.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_2372.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2373.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2378.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2379.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2380.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2381.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2382.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2383.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2385.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2386.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2387.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_239.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_2390.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2391.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2393.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_2395.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_2399.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_24.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_2400.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_244.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_245.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_248.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_249.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_252.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_256.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_259.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_262.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_265.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_268.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_269.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_27.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_270.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_275.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_283.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_285.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_288.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_294.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_296.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_298.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_3.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_31.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_310.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_325.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_329.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_33.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_331.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_333.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_339.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_35.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_361.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_367.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_368.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_37.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_370.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_372.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_373.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_377.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_378.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_382.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_394.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_4.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_400.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_410.jpg,Positive,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_415.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_417.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_418.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_42.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_426.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_439.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_44.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_443.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_447.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_451.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_453.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_46.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_461.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_462.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_465.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_468.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_472.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_476.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_481.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_482.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_484.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_486.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_491.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_497.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_499.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_50.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_506.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_512.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_517.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_518.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_52.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_520.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_525.jpg,Neutral,Sarcastic,Vulgar,Abusive
+Hindi_image_531.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_535.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_537.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_540.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_542.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_546.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_551.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_555.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_557.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_57.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_575.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_594.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_598.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_605.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_610.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_615.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_622.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_623.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_626.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_63.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_630.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_633.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_639.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_642.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_645.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_647.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_648.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_65.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_651.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_653.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_656.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_66.jpg,Neutral,Sarcastic,Vulgar,Non-abusive
+Hindi_image_660.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_661.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_666.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_667.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_668.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_672.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_675.jpg,Positive,Sarcastic,Vulgar,Abusive
+Hindi_image_68.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_681.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_682.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_69.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_690.jpg,Positive,Sarcastic,Non Vulgar,Abusive
+Hindi_image_691.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_695.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_696.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_697.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_705.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_711.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_714.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_715.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_716.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_725.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_726.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_730.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_735.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_737.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_738.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_745.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_749.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_75.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_750.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_752.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_753.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_756.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_758.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_762.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_763.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_765.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_769.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_77.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive
+Hindi_image_770.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_772.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_775.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_776.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_777.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_778.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_78.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_780.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_783.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_784.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_785.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_789.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_79.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_791.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_795.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_800.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_802.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_806.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_809.jpg,Negative,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_81.jpg,Neutral,Sarcastic,Vulgar,Abusive
+Hindi_image_811.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_817.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_820.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_825.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_832.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_833.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_834.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_835.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_837.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_839.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_84.jpg,Neutral,Sarcastic,Non Vulgar,Abusive
+Hindi_image_840.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_841.jpg,Positive,Sarcastic,Vulgar,Non-abusive
+Hindi_image_842.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_843.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_849.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_853.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_856.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_859.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_864.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_867.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive
+Hindi_image_875.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_880.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_881.jpg,Positive,Sarcastic,Vulgar,Abusive
+Hindi_image_882.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_883.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_890.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_891.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_894.jpg,Negative,Sarcastic,Vulgar,Non-abusive
+Hindi_image_904.jpg,Neutral,Sarcastic,Vulgar,Abusive
+Hindi_image_906.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_908.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_91.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_917.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_92.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_924.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_933.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_944.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_949.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_950.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_953.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_956.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_959.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_960.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_963.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_966.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_971.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_973.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_977.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_98.jpg,Negative,Sarcastic,Vulgar,Abusive
+Hindi_image_981.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_983.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
+Hindi_image_994.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_997.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive
+Hindi_image_998.jpg,Negative,Sarcastic,Non Vulgar,Abusive
+Hindi_image_999.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive
